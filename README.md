@@ -35,6 +35,6 @@
       •Contribuições
       
       
-      Este projeto está não está completo. Se você quiser contribuir, fique à vontade com sugestões de melhorias ou correções.
+      Este projeto não está completo. Se você quiser contribuir, fique à vontade com sugestões de melhorias ou correções.
 
    
